@@ -2,11 +2,11 @@
 
 A modern, high-performance web platform for FG Science Degree College, designed to bridge the gap between traditional education and the digital future. This project features a cutting-edge UI, integrated AI student assistance, and a comprehensive administrative portal.
 
-**Designed and Developed by [Muhammad Sultan Ul Arifeen](https://github.com/)**
+**Designed and Developed by [Muhammad Sultan Ul Arifeen](https://github.com/Msultanularifeen)**
 
 ## 🚀 Live Demo
 
-[Link to Live Demo]
+https://fgsdc-2-0.vercel.app/
 
 ## ✨ Features
 
