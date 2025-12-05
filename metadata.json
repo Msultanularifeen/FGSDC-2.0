@@ -1,0 +1,7 @@
+{
+  "name": "FG Science Degree College (Redesigned)",
+  "description": "A modern, responsive redesign of the FG Science Degree College website featuring AI-powered student assistance, dynamic animations, and a comprehensive academic portal.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
